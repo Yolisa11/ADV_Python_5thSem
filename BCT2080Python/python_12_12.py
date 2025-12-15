@@ -1,5 +1,6 @@
 # list knowledge
 my_list=[1,2,3,4,5]
+print("My list is:", my_list)
 
 
 
